@@ -1,4 +1,4 @@
-# 👨‍💻 Whoami:
+# 👩🏻‍💻 Whoami:
 
 SALAM 👋, I'm Raghad Aljuaid.<br>
 I'm a software developer .
