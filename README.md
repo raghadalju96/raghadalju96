@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Raghad Aljuaid
+- 👀 I’m interested in web development
+- 💬 Ask me about SPRING, ANGULAR, JavaScript, HTML & CSS
+- 🌱 I keep learning
+- 📫 Reach me at raghad.alju96@gmail.com
