@@ -18,7 +18,7 @@
 - 📫 Reach me at raghad.alju96@gmail.com
 
 
-### Connect with Me :
+### LinkedIn :
 
 <a href="https://www.linkedin.com/in/raghad-aljuaid-377224155/" target="_blank"><img src="https://img.shields.io/badge/-Raghad%20Aljuaid-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
